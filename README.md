@@ -7,7 +7,7 @@ Use these instructions to get the project up and running.
 ### Prerequisites
 You will need the following tools:
 
-* [Visual Studio Code or 2019](https://www.visualstudio.com/downloads/) or [JetBrains Rider](https://www.jetbrains.com/rider/download)
+* [Visual Studio Code or 2019](https://www.visualstudio.com/downloads/)
 * [.NET Core SDK 3.1](https://www.microsoft.com/net/download/dotnet-core/3.1)
 
 ### Setup
