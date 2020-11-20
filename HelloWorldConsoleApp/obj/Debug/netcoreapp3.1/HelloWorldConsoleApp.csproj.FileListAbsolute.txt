@@ -1,0 +1,13 @@
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\netcoreapp3.1\HelloWorldConsoleApp.exe
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\netcoreapp3.1\HelloWorldConsoleApp.deps.json
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\netcoreapp3.1\HelloWorldConsoleApp.runtimeconfig.json
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\netcoreapp3.1\HelloWorldConsoleApp.runtimeconfig.dev.json
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\netcoreapp3.1\HelloWorldConsoleApp.dll
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\netcoreapp3.1\HelloWorldConsoleApp.pdb
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\netcoreapp3.1\HelloWorldConsoleApp.csprojAssemblyReference.cache
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\netcoreapp3.1\HelloWorldConsoleApp.AssemblyInfoInputs.cache
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\netcoreapp3.1\HelloWorldConsoleApp.AssemblyInfo.cs
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\netcoreapp3.1\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\netcoreapp3.1\HelloWorldConsoleApp.dll
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\netcoreapp3.1\HelloWorldConsoleApp.pdb
+E:\TCB_Tutorials\.Net Core\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\netcoreapp3.1\HelloWorldConsoleApp.genruntimeconfig.cache
